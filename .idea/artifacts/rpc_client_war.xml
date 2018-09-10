@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rpc-client:war">
+    <output-path>$PROJECT_DIR$/rpc-client/target</output-path>
+    <root id="archive" name="rpc-client.war">
+      <element id="artifact" artifact-name="rpc-client:war exploded" />
+    </root>
+  </artifact>
+</component>
